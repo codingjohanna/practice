@@ -1,3 +1,3 @@
 # practice
 
-Repository of coding practice exercises.
+Repository of coding practice exercises
